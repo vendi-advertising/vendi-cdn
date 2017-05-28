@@ -1,0 +1,32 @@
+# Copyright (C) 2017 Vendi CDN
+# This file is distributed under the same license as the Vendi CDN package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vendi CDN 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/vendi-cdn\n"
+"POT-Creation-Date: 2017-05-28 16:24:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Vendi CDN"
+msgstr ""
+
+#. #-#-#-#-#  vendi-cdn.pot (Vendi CDN 0.0.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  vendi-cdn.pot (Vendi CDN 0.0.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://www.vendiadvertising.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A custom CDN for clients of Vendi Advertising."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Vendi Advertising (Chris Haas)"
+msgstr ""
